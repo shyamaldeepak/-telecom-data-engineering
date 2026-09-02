@@ -1,4 +1,4 @@
-# -telecom-data-engineering
+# Telecom-data-engineering
 Absolutely — here is a GitHub-ready README.md for the telecom data engineering project, written to look like a serious real-world production project rather than a tutorial.
 
 📡 Telecom 360° — Real-Time Telecom Data Engineering Platform
