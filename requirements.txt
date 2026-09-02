@@ -1,0 +1,24 @@
+# Telecom 360 - Real-Time Telecom Data Engineering Platform
+# Core Data Processing & Lakehouse
+pyspark>=3.5.0
+delta-spark>=3.0.0
+duckdb>=1.0.0
+polars>=1.0.0
+pyarrow>=14.0.0
+
+# Streaming & Messaging
+kafka-python>=2.0.2
+
+# Machine Learning & Analytics
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+
+# Visualization & Interactive Dashboards
+streamlit>=1.35.0
+plotly>=5.22.0
+
+# Testing & Quality
+pytest>=8.0.0
+pydantic>=2.7.0
